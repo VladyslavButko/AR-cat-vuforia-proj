@@ -1,5 +1,5 @@
 # AR-cat-vuforia-proj
-A small AR project that uses image tracking to display a 3D cat with animations controlled by three buttons.
+## A small AR project that uses image tracking to display a 3D cat with animations controlled by three buttons.
 
 Цей проєкт — додаток доповненої реальності (AR), розроблений на Unity з використанням технології Vuforia.
 
@@ -12,8 +12,13 @@ A small AR project that uses image tracking to display a 3D cat with animations 
 взаємодіяти з об’єктами реального світу через камеру пристрою. Вона інтегрується з Unity та використовується 
 для створення доповненої реальності (AR), де цифровий контент (3D-об’єкти, відео, ефекти) накладається на реальні сцени.
 
-Як працює додаток?
-1️ Запускаємо додаток на пристрої з камерою.
-2️ Наводимо камеру на Image Target (наприклад, надруковану картинку).
-3️ Кіт з’являється у 3D поверх картинки з анімацією idle.
-4️ Натискаємо кнопки, щоб змінювати його анімацію.
+*** 
+### Як працює додаток?
+1. Запускаємо додаток на пристрої з камерою.
+2. Наводимо камеру на Image Target (наприклад, надруковану картинку).
+3. Кіт з’являється у 3D поверх картинки з анімацією idle.
+4. Натискаємо кнопки, щоб змінювати його анімацію.
+
+***
+### Відео-демонстрація працездатності проекту:
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/video-id-here/0.jpg)](http://www.youtube.com/video-id-here)
