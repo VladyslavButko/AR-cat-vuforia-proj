@@ -19,6 +19,8 @@
 3. Кіт з’являється у 3D поверх картинки з анімацією idle.
 4. Натискаємо кнопки, щоб змінювати його анімацію.
 
+> [!WARNING]
+> Після першого відкриття проекту, потрібно буде додатково встановити [Vuforia Engine](https://developer.vuforia.com/downloads/sdk) для Unity. Після встановлення файлу перетягнути його до папки Assets в проекті.
 ***
 ### Відео-демонстрація працездатності проекту:
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/video-id-here/0.jpg)](http://www.youtube.com/video-id-here)
+[![Youtube link](http://img.youtube.com/vi/aNHmEWOZ73g/0.jpg)](https://www.youtube.com/watch?v=aNHmEWOZ73g)
