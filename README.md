@@ -23,4 +23,4 @@
 > Після першого відкриття проекту, потрібно буде додатково встановити [Vuforia Engine](https://developer.vuforia.com/downloads/sdk) для Unity. Після встановлення файлу перетягнути його до папки Assets в проекті.
 ***
 ### Відео-демонстрація працездатності проекту:
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/aNHmEWOZ73g/0.jpg)](http://www.youtube.com/aNHmEWOZ73g)
+[![Youtube link](http://img.youtube.com/vi/aNHmEWOZ73g/0.jpg)](http://www.youtube.com/aNHmEWOZ73g)
